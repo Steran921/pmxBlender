@@ -1,0 +1,46 @@
+# Blender MTL File: 'Lavamanos.blend'
+# Material Count: 4
+
+newmtl Ceramica
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\DepartCjj\texGranito.jpg
+
+newmtl Madera
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.292414 0.292414 0.292414
+Ks 0.162069 0.162069 0.162069
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\DepartCjj\maderaclara.jpg
+
+newmtl Madera_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.292414 0.292414 0.292414
+Ks 0.162069 0.162069 0.162069
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\\Diseños\\Construcciones\\DepartCjj\\maderaclara.jpg
+
+newmtl Metal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Texturas\plata.jpg

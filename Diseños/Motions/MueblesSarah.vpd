@@ -1,0 +1,88 @@
+Vocaloid Pose Data file
+
+MuebMov;
+15;
+
+Bone0{Root
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone1{silla01
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone2{silla02
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone3{PCSillaMov
+  0,0,-2.680597;
+  0,0,0,1;
+}
+
+Bone4{Tbrt01
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone5{Tbrt02
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone6{licuabase
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone7{licuaVaso
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone8{licuaTapa
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone9{refri
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone10{portaretrato
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone11{jarra
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone12{folder
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone13{mesaTrab
+  0,0,0;
+  0,0,0,1;
+}
+
+Bone14{mblPCmouse
+  0,0,0;
+  0,0,0,1;
+}
+
+Morph0{llave
+  0;
+}
+
+Morph1{cafe
+  0;
+}
+

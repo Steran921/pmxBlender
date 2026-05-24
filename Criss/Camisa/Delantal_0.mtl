@@ -1,0 +1,17 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_3_FRONT_40564
+Ka 0.125490 0.125490 0.125490
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material7214
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka M:/Diseños/Texturas/txDelantal.jpg
+map_Kd M:/Diseños/Texturas/txDelantal.jpg

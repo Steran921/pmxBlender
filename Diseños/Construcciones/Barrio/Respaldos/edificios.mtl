@@ -1,0 +1,199 @@
+# Blender MTL File: 'edificios.blend'
+# Material Count: 18
+
+newmtl baldosaExt
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\baldosaExterior.jpg
+
+newmtl concreto
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.301251 0.301251 0.301251
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\concreto gris.png
+
+newmtl concretoamarillo
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.447329 0.061785
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\concreto gris.png
+
+newmtl concretoceleste
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.036458 0.518134 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\concreto gris.png
+
+newmtl concretonaranja
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.275157 0.055763
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\concreto gris.png
+
+newmtl concretonaranja_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.275157 0.055763
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\\Diseños\\Construcciones\\Barrio\\concreto gris.png
+
+newmtl fachada
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.124097 0.000000 0.000210
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\txBaldosaRoja.png
+
+newmtl laterales
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\concreto gris.png
+
+newmtl laterales_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\\Diseños\\Construcciones\\Barrio\\bloqueHormigon.png
+
+newmtl laterales_bloqueHormigon.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\bloqueHormigon.png
+
+newmtl logoPan
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\logoPanaderia.jpg
+
+newmtl metalnegro
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.011734 0.011734 0.011734
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl negro
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\concreto gris.png
+
+newmtl plomo
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.156785 0.156785 0.156785
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\concreto gris.png
+
+newmtl ptaLandford
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.288295 0.288295 0.288295
+Ks 0.020733 0.020733 0.020733
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\txpuertaLanfor.png
+
+newmtl ptaMetal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.286897 0.286897 0.286897
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\txPuertaMetal.png
+
+newmtl txBanner
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.243540 0.243540 0.243540
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\txTienda.jpg
+
+newmtl ventana
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.455929 0.455929 0.455929
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\Barrio\txBanco.png

@@ -1,0 +1,28 @@
+Busto: 101.58  Elena 96.89
+Cintura: 64.06
+Cadera: 102.25  - 107.95
+Talle frontal: 50.70
+Centro frontal: 38.00
+Ancho pecho: 42.84
+Separación de busto: 17.98
+Altura de busto: 33.18
+Largo de hombro: 10.95
+Caída del hombro: 0
+Altura lateral de espalda: 45.41
+Altura centro espalda: 40.91
+Ancho de espalda: 34.81
+Largo de cadera: 21.53
+Largo de muslo: 19.03
+contorno de muslo: 61.20
+Largo de pantorrilla: 62.39
+Controno de pantorrilla:39.99
+Tiro largo: 11.39
+Tiro frontal: 18.34
+Tiro trasero: 19.32
+Altura: 1.68  1.72
+32-G
+
+
+
+
+

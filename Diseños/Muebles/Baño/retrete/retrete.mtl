@@ -1,0 +1,24 @@
+# Blender MTL File: 'retrete.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.112531 0.314491 0.192023
+Ks 0.108696 0.108696 0.108696
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd txRetreteVerde.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307499 0.307499 0.307499
+Ks 0.221739 0.221739 0.221739
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd txRetreteVerde.png

@@ -1,0 +1,10 @@
+Vocaloid Pose Data file
+
+Blenderエクスポート;
+1;
+
+Bone0{root
+  0,-0.09686457,0;
+  0,0,0,1;
+}
+

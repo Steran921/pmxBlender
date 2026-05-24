@@ -1,0 +1,155 @@
+# Blender MTL File: 'Construccion.blend'
+# Material Count: 14
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.996122 1.000000 0.933513
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\DepartCjj\texturaAdds.png
+map_d M:\\Diseños\\Construcciones\\DepartCjj\\texturaAdds.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.381591 0.040257 0.010608
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.004
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.008575
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\DepartCjj\yesoBlanco.jpg
+
+newmtl Material.004_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.000000 0.008575
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\\Diseños\\Construcciones\\DepartCjj\\yesoBlanco.jpg
+
+newmtl Material.005
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\DepartCjj\texturaAdds.png
+
+newmtl Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.040445 0.040445 0.040445
+Ks 0.207965 0.207965 0.207965
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Texturas\maderaclara.jpg
+
+newmtl Material.007
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\DepartCjj\yesoBlanco.jpg
+
+newmtl Material.009
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\DepartCjj\yesoBlanco.jpg
+
+newmtl Material.011
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Construcciones\DepartCjj\texturaGral.png
+
+newmtl Material.011_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\\Diseños\\Construcciones\\DepartCjj\\texturaGral.png
+
+newmtl Material.014
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd M:\Diseños\Texturas\maderaclara.jpg
+
+newmtl Material_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.996122 1.000000 0.933513
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\\Diseños\\Construcciones\\DepartCjj\\texturaAdds.png
+map_d M:\\Diseños\\Construcciones\\DepartCjj\\texturaAdds.png
+
+newmtl None
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.028975 1.000000 0.943037
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,101 @@
+# Blender MTL File: 'cuadra01.blend'
+# Material Count: 9
+
+newmtl amarillo
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.240000 0.134806 0.024062
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl blanco
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.240000 0.240000 0.240000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl cafe
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.073858 0.004409 0.001428
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl celeste
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.092834 0.175047 0.240000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl crema
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.300000 0.157126 0.079858
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl gris
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.036049 0.036049 0.036049
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl pasto
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.001744 0.017700 0.001261
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl rosa
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.240000 0.123508 0.172111
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png
+
+newmtl verde
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.001040 0.240000 0.091003
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd M:\Diseños\Construcciones\Barrio\textures\cuadra01.png

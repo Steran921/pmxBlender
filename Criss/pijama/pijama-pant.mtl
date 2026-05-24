@@ -1,0 +1,17 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_1_FRONT_2307
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka M:/Diseños/Texturas/txSerpiente.jpg
+map_Kd M:/Diseños/Texturas/txSerpiente.jpg
+newmtl Default_Fabric_FRONT_1695
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000

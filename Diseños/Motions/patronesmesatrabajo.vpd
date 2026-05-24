@@ -1,0 +1,10 @@
+Vocaloid Pose Data file
+
+patronbracier;
+1;
+
+Bone0{root
+  -12.50754,10.2139,4.928151;
+  0,-0.7833269,0,0.62161;
+}
+

@@ -1,0 +1,19 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_1_FRONT_16510
+Ka 0.313726 0.313726 0.313726
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka M:/Diseños/Texturas/jeans.jpg
+map_Kd M:/Diseños/Texturas/jeans.jpg
+newmtl FABRIC_1_Copy_1_FRONT_16582
+Ka 0.125490 0.125490 0.125490
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka M:/Diseños/Texturas/jeans.jpg
+map_Kd M:/Diseños/Texturas/jeans.jpg

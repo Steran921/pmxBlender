@@ -1,0 +1,24 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Androide1:Body:Defaultskin
+Ns 960.784314
+Ka 0.110000 0.110000 0.110000
+Kd 0.819770 0.621950 0.500560
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 9
+
+newmtl Androide1:High-poly:Eye_brown
+Ns 1000.000000
+Ka 0.110000 0.110000 0.110000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 9
+map_Kd K:\\Makehuman\\MakeHumanPortable\\Data\\makehuman\\v1\\exports\\textures\\brown_eye.png
+map_d K:\\Makehuman\\MakeHumanPortable\\Data\\makehuman\\v1\\exports\\textures\\brown_eye.png

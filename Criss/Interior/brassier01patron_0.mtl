@@ -1,0 +1,17 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material5514
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka K:/Hellen/Criss/Interior/encaje.jpg
+map_Kd K:/Hellen/Criss/Interior/encaje.jpg
+newmtl Material5510
+Ka 0.007382 0.006151 0.006151
+Kd 0.023529 0.019608 0.019608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000

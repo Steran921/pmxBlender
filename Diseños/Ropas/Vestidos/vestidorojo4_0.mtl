@@ -1,0 +1,10 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material1766
+Ka 0.143945 0.126721 0.303883
+Kd 0.458824 0.403922 0.968627
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka M:/Diseños/Texturas/flores7.jpg
+map_Kd M:/Diseños/Texturas/flores7.jpg

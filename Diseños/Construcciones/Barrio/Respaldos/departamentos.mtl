@@ -1,0 +1,92 @@
+# Blender MTL File: 'barrio_arm.blend'
+# Material Count: 8
+
+newmtl 47:Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.294902 0.147451 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 48:Material.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.498823 0.150588 0.100392
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\ladrillo.jpg
+map_d F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\ladrillo.jpg
+
+newmtl 49:Material.006
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.052969 0.098842 0.186412
+Ks 0.003153 0.016695 0.026109
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 50:paredBlanca
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.426667 0.426667 0.426667
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\yesoBlanco.jpg
+map_d F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\yesoBlanco.jpg
+
+newmtl 51:Material.008
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.176205 0.084952 0.041607
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\yesoBlanco.jpg
+map_d F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\yesoBlanco.jpg
+
+newmtl 52:Material.010
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.363922 0.122353 0.031373
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl 57:Material.012
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.008848 0.072670 0.011323
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\cesped2.jpg
+map_d F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\cesped2.jpg
+
+newmtl 58:ventanas
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.304314 0.429804 0.690196
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\ventCafe2.png
+map_d F:\\Repositorios\\Sara\\Blender\\blender-pmx\\Diseños\\Construcciones\\Barrio\\textures\\ventCafe2.png

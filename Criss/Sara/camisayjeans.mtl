@@ -1,0 +1,28 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material1786
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka C:/Users/JUAN/AppData/Local/Temp/md5/15036/1056/jeans.jpg
+map_Kd C:/Users/JUAN/AppData/Local/Temp/md5/15036/1056/jeans.jpg
+newmtl Material1798
+Ka 0.214072 0.177163 0.177163
+Kd 0.682353 0.564706 0.564706
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka K:/Hellen/Diseños/Texturas/telavaquerodef.jpg
+map_Kd K:/Hellen/Diseños/Texturas/telavaquerodef.jpg
+newmtl Material1804
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka K:/Hellen/Diseños/Texturas/telavaquerodef.jpg
+map_Kd K:/Hellen/Diseños/Texturas/telavaquerodef.jpg

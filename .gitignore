@@ -1,0 +1,8 @@
+# Node / Web dependencias
+node_modules/
+.env
+
+# Blender y temporales 3D
+*.blend1
+*.blend2
+.blend@

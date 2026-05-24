@@ -1,0 +1,12 @@
+# Blender MTL File: 'cesped.blend'
+# Material Count: 1
+
+newmtl grass
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.042543 0.254831 0.039319
+Ks 0.264744 0.500000 0.007036
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2

@@ -1,0 +1,53 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl FABRIC_2_FRONT_168307
+Ka 0.007382 0.006151 0.006151
+Kd 0.023529 0.019608 0.019608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl Material1596
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ns 96.078430
+illum 2
+d 1.000000
+map_Kd C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t002.bmp
+map_d C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t002.bmp
+newmtl Material1600
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ns 96.078430
+illum 2
+d 1.000000
+map_Kd C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t010.bmp
+map_d C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t010.bmp
+newmtl Material1604
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ns 96.078430
+illum 2
+d 1.000000
+map_Kd C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t002.bmp
+map_d C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t002.bmp
+newmtl FABRIC_3_FRONT_237898
+Ka 0.257132 0.257132 0.257132
+Kd 0.819608 0.819608 0.819608
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka K:/Hellen/Criss/Interior/encaje.jpg
+map_Kd K:/Hellen/Criss/Interior/encaje.jpg
+newmtl Material1607
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ns 96.078430
+illum 2
+d 1.000000
+map_Kd C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t000.bmp
+map_d C:/Users/JUAN/AppData/Local/Temp/md5/11700/1055/t000.bmp

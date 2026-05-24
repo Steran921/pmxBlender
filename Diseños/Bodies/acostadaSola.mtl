@@ -1,0 +1,170 @@
+# Blender MTL File: 'cama2.blend'
+# Material Count: 14
+
+newmtl 材質1.003
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.037500 0.037500 0.037500
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\Alacranes.png
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\Alacranes.png
+
+newmtl 材質1.004
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t002.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t002.bmp
+
+newmtl 材質10.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t007.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t007.bmp
+
+newmtl 材質11.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t009.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t009.bmp
+
+newmtl 材質12.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t004.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t004.bmp
+
+newmtl 材質13.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t010.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t010.bmp
+
+newmtl 材質2.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t002.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t002.bmp
+
+newmtl 材質3.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t000.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t000.bmp
+
+newmtl 材質4.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t004.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t004.bmp
+
+newmtl 材質5.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t002.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t002.bmp
+
+newmtl 材質6.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t005.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t005.bmp
+
+newmtl 材質7.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t000.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t000.bmp
+
+newmtl 材質8.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t005.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t005.bmp
+
+newmtl 材質9.002
+Ns 94.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd K:\Hellen\Anime\TDCG2\ElenaCiv28\t000.bmp
+map_d K:\\Hellen\\Anime\\TDCG2\\ElenaCiv28\\t000.bmp

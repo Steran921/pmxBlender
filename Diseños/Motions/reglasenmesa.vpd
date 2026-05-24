@@ -1,0 +1,10 @@
+Vocaloid Pose Data file
+
+reglasCostura;
+1;
+
+Bone0{root
+  -18.53457,13.17677,5.960048;
+  0,0,0,1;
+}
+
